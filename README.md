@@ -73,7 +73,7 @@ Start the Next.js development server:
 \`\`\`bash
 npm run dev
 \`\`\`
-Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to start auditing!
+Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to start auditing
 
 ---
 
