@@ -81,7 +81,7 @@ Open your browser and navigate to [http://localhost:3000](http://localhost:3000)
 This application uses a prompt structure instructing the Llama 3.3 70B model to strictly format responses. Depending on the snippet provided, the model dynamically calculates risk scores and finds issues. **There are no hardcoded vulnerability results.** The insights you receive adjust completely based on the exact Solidity code you enter.
 
 ## 🤝 Contributing
-Pull requests are welcome! If you'd like to improve the UI, add support for more AI models, or expand the Solidity storage contract capabilities, feel free to fork the repository and submit a PR.
+Pull requests are welcome, If you'd like to improve the UI, add support for more AI models, or expand the Solidity storage contract capabilities, feel free to fork the repository and submit a PR.
 
 ## 📄 License
 This project is licensed under the MIT License.
